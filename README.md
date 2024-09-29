@@ -41,3 +41,7 @@
 ## Заключение
 
 Проект позволяет глубже понять разработку корпоративных систем, одновременно обеспечивая практическую работу с технологиями, востребованными в сфере Full-stack разработки.
+
+https://github.com/user-attachments/assets/3d8d3b23-7d12-4e72-b144-9b1ae3c24d91
+
+https://github.com/user-attachments/assets/25dad8a5-39bd-4af9-846d-46c28f9cabff
